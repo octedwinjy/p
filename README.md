@@ -1,2 +1,1 @@
-# p
-Self Project
+https://octedwinjy.github.io/p/index.html
